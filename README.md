@@ -1,0 +1,3 @@
+# MiniScript
+1将word转为markdown文件转到指定文件夹上传到github
+定时将文件上传到github
